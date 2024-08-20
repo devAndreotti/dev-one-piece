@@ -1,7 +1,7 @@
 # One Piece - Semana do Zero ao Programador Contratado
 
 <div align="center">
-  <img src="URL_DA_IMAGEM" alt="One Piece Banner" width="800" height="500"/>
+  <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Banner" width="800" height="500"/>
 </div>
 
 ## Objetivo do Projeto
