@@ -5,12 +5,6 @@
   <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Banner"/>
 </div>
 
-## Tecnologias Empregadas
-
-- **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilos e responsividade.
-- **JavaScript**: Lógica para manipulação da DOM e interação do usuário.
-
 ## Funcionalidades
 
 - **Seleção de Personagens**: O usuário pode clicar nos botões para alternar entre os personagens.
@@ -20,6 +14,12 @@
 ## Visualize o Projeto
 
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-one-piece/).
+
+## Tecnologias Empregadas
+
+- **HTML5**: Estrutura da aplicação.
+- **CSS3**: Estilos e responsividade.
+- **JavaScript**: Lógica para manipulação da DOM e interação do usuário.
 
 ## Como Executar
 
