@@ -1,4 +1,4 @@
-# One Piece - Semana do Zero ao Programador Contratado
+# Desafio Dev: One Piece
 
 <div align="center">
   <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Wallpaper"/>
