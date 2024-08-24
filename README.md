@@ -1,12 +1,9 @@
-# Desafio Dev: One Piece
+<!-- Projeto Finalizado -->
+# Desafio DEV: One Piece
 
 <div align="center">
-  <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Wallpaper"/>
+  <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Banner"/>
 </div>
-
-## Objetivo do Projeto
-
-Este projeto faz parte da **Semana do Zero ao Programador Contratado** e consiste na criação de uma página interativa para selecionar personagens do anime **One Piece**. A página permite aos usuários alternar entre diferentes personagens da tripulação dos Piratas do Chapéu de Palha, exibindo informações sobre cada um deles.
 
 ## Tecnologias Empregadas
 
@@ -48,4 +45,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## Nota
 
-Este projeto é para fins educacionais e faz parte da **Semana do Zero ao Programador Contratado**. Sinta-se livre para explorar e adaptar conforme necessário.
+Este projeto é para fins educacionais e foi realizado no curso **Dev em Dobro**. Sinta-se livre para explorar e adaptar conforme necessário.
