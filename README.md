@@ -17,6 +17,10 @@
 - **Atualização Dinâmica**: Ao selecionar um personagem, a página atualiza automaticamente a imagem e as informações exibidas.
 - **Responsividade**: A página é responsiva e se adapta a diferentes tamanhos de tela.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-one-piece/).
+
 ## Como Executar
 
 1. Clone o repositório:
