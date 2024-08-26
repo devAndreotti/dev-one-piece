@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Desafio DEV: One Piece
+# ☠️ Desafio DEV: One Piece
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
