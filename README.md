@@ -16,7 +16,7 @@
   <img src="./src/img/personagem-monkey-d-luffy.jpg" alt="One Piece Banner"/>
 </div>
 
-## 🔍 Funcionalidades
+## ⚙️ Funcionalidades
 
 - **Seleção de Personagens**: O usuário pode clicar nos botões para alternar entre os personagens.
 - **Atualização Dinâmica**: Ao selecionar um personagem, a página atualiza automaticamente a imagem e as informações exibidas.
