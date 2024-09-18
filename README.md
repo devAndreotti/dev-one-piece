@@ -51,3 +51,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📝 Nota
 Este projeto é para fins educacionais e foi realizado no curso **Dev em Dobro**. Sinta-se livre para explorar e adaptar conforme necessário.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
