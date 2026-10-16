@@ -39,6 +39,8 @@
 @media (max-width: 425px) {
     main .personagem .imagem {
         height: auto;
+        -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+        mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
     }
 
     .conteudo .logo {
